@@ -1,0 +1,7 @@
+{
+
+    "testFiles":"**/*.feature",
+    "baseUrl":"https://admin-demo.nopcommerce.com/login"
+
+
+}
